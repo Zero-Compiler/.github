@@ -11,13 +11,24 @@ Zero is a modern, high-performance programming language designed for simplicity 
 
 ![Metrics](https://raw.githubusercontent.com/Zero-Compiler/.github/main/metrics.svg)
 
+<!-- 
+
 ## Activity Overview
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Zero-Compiler&theme=github-compact&hide_border=true&area=true&custom_title=Organization%20Activity)
+### Recent Activity Timeline
+![Timeline Graph](https://images.repography.com/0/Zero-Compiler/zero-compiler/recent-activity/zNy4oR8sSA3MaBEuvhDAWHOWwfDtGJ8kh6ql9KVPvmI/MqBzxBYQTsLBLSHmJu9WUo1jfM_dJT2HNjFYwdTHiNc_timeline.svg)
+
+### Structure Overview
+![Structure](https://images.repography.com/0/Zero-Compiler/zero-compiler/structure/zNy4oR8sSA3MaBEuvhDAWHOWwfDtGJ8kh6ql9KVPvmI/MqBzxBYQTsLBLSHmJu9WUo1jfM_dJT2HNjFYwdTHiNc_structure.svg)
+
+### Top Contributors
+![Contributors](https://images.repography.com/0/Zero-Compiler/zero-compiler/top-contributors/zNy4oR8sSA3MaBEuvhDAWHOWwfDtGJ8kh6ql9KVPvmI/MqBzxBYQTsLBLSHmJu9WUo1jfM_dJT2HNjFYwdTHiNc_table.svg)
 
 </div>
+
+-->
 
 ## Contributors
 
