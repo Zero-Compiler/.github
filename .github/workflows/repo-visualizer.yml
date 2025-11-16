@@ -25,4 +25,3 @@ jobs:
           output_file: "diagram.svg"
           excluded_paths: "node_modules,.git,.github,dist,build"
           commit_message: "Update repository visualization"
-          branch: main
