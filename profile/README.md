@@ -19,14 +19,6 @@ Zero is a modern, high-performance programming language designed for simplicity 
 
 </div>
 
-## Repository Structure
-
-<div align="center">
-
-![Repository Visualization](https://raw.githubusercontent.com/Zero-Compiler/.github/main/diagram.svg)
-
-</div>
-
 ## Contributors
 
 Thanks to all the developers who have contributed to the Zero project!
