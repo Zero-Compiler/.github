@@ -21,6 +21,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN_ZERO }}
           filename: metrics.svg
           user: Zero-Compiler
+          user_type: organization
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           template: classic
           base: header, activity, community, repositories, metadata
