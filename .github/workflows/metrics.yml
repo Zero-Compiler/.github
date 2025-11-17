@@ -21,7 +21,6 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN_ZERO }}
           filename: metrics.svg
           user: Zero-Compiler
-          user_type: organization
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           template: classic
           base: header, activity, community, repositories, metadata
@@ -29,8 +28,7 @@ jobs:
           repositories_forks: yes
           
           # 日历插件
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          plugin_isocalendar: no
           
           # 语言统计
           plugin_languages: yes
@@ -65,5 +63,24 @@ jobs:
           plugin_habits_charts: yes
           
           # Stars 统计
-          plugin_stars: yes
-          plugin_stars_limit: 4
+          plugin_stars: no
+          
+          # 仓库流量统计
+          plugin_traffic: yes
+          
+          # 热门仓库
+          plugin_notable: yes
+          plugin_notable_from: organization
+          plugin_notable_repositories: yes
+          
+          # 代码变更统计
+          plugin_code: yes
+          plugin_code_languages: c++, rust, cmake, makefile
+          plugin_code_load: 400
+          plugin_code_days: 3
+          plugin_code_visibility: all
+          
+          # 仓库话题
+          plugin_topics: yes
+          plugin_topics_mode: starred
+          plugin_topics_limit: 15
